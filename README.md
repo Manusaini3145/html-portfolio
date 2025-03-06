@@ -1,2 +1,2 @@
 # html-portfolio
-Beginner Projects
+Beginner's Projects
